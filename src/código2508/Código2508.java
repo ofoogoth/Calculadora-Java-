@@ -19,12 +19,12 @@ public class Código2508 {
        
         Calculadora c1 = new Calculadora(6,5);
         Calculadora cDefecto = new Calculadora();
-        System.out.println("Por Defecto");
+        System.out.println("Por Defecto:");
         System.out.println(cDefecto.Suma());
         System.out.println(cDefecto.Resta());
         System.out.println(cDefecto.Multiplicacion());
         System.out.println(cDefecto.Division());
-        System.out.println("Con valores");
+        System.out.println("Con valores:");
         System.out.println(c1.Suma());
         System.out.println(c1.Resta());
         System.out.println(c1.Multiplicacion());
